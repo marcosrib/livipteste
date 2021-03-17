@@ -1,0 +1,1927 @@
+export const response = {
+  'final-libertadores-2020': {
+    title: 'Libertadores 2020',
+    subtitle: 'Final | Rio de Janeiro',
+    prefix: 'o',
+    city: 'Rio de Janeiro',
+    short_description: 'A CONMEBOL Libertadores é o principal torneio de clubes de futebol da América do Sul. Desde 2019, a Final é disputada em jogo único e em um sábado, parando todo o continente e oferecendo a torcedores e empresas a oportunidade de passar um final de semana de muita festa e futebol.',
+    cover_url: '/img/headers/header-final-libertadores-2020.png',
+    about: {
+      cover_url: '/img/side-libertadores-2020.png',
+      title: 'Final Conmebol Libertadores 2020',
+      description: 'A grande final do torneio de 2020 será disputada em 2021, devido à crise do Covid19. Os melhores times do continente se encontrarão no histórico Maracanã para decidir o título continental e também uma vaga no Mundial de Clubes que será disputado em Doha, no Qatar.',
+    },
+    sectors: [
+      {
+        name: 'Hospitality Club',
+        gallery: [
+          '/img/hospitality-libertadores-2020.png',
+        ],
+        logo: '/img/the-nine-logo.png',
+        logo_event: '/img/logos/logo_libertadores2020.png',
+        title: 'Hospitality Club',
+        description: 'O setor de Hospitalidade oferecerá aos convidados o conforto da melhor visão do campo e uma área exclusiva de alimentação, bebidas e entretenimento, proporcionando uma experiência inesquecível para os convidados.',
+        map: {
+          latitude: '40.714728',
+          longitude: '-73.998672',
+        },
+        features: [
+          'Ingressos Categoria 1 na arquibancada central',
+          'Serviço de alimentação e bebida',
+          'Entretenimento e experiências exclusivas',
+        ],
+      },
+      {
+        name: 'Camarote',
+        gallery: [
+          '/img/hospitality-libertadores-2020.png',
+        ],
+        logo: '/img/the-nine-logo.png',
+        logo_event: '/img/logos/logo_libertadores2020.png',
+        title: 'Camarote',
+        description: 'Os camarotes oferecem espaços privativos e exclusivos para grupos de amigos ou de empresas. O serviço de comida e bebida está incluído, além de receptivo pré e pós-jogo.',
+        map: {
+          latitude: '40.714728',
+          longitude: '-73.998672',
+        },
+        features: [
+          'Ingressos de Camarote',
+          'Serviço de alimentação e bebida',
+          'Entretenimento e experiências exclusivas',
+          'Transmissão ao vivo do jogo nas TVs do camarote',
+        ],
+      },
+    ],
+    attractions: {
+      description: 'Todos os convidados VIP terão acesso exclusivo à Área de Hospitalidade, onde poderão desfrutar de comidas e bebidas à vontade, além de entretenimento e experiências proporcionada pela CONMEBOL e patrocinadores da competição.',
+      suggested: [
+        {
+          id: 1,
+          cover_url: '/img/hospitality-libertadores-1-2020.png',
+          name: 'ÁREA DE HOSPITALIDADE',
+          description: 'Área exclusiva para os clientes VIP',
+        },
+        {
+          id: 2,
+          cover_url: '/img/hospitality-libertadores-2-2020.png',
+          name: 'SERVIÇO DE CATERING',
+          description: 'Alimentação e bebidas incluídas no serviço',
+        },
+        {
+          id: 3,
+          cover_url: '/img/hospitality-libertadores-3-2020.png',
+          name: 'ENTRETENIMENTO',
+          description: 'Muita festa e ativações dos patrocinadores',
+        },
+      ],
+      best: [
+        {
+          id: 1,
+          cover_url: '/img/cristoredentor.png',
+          name: 'Cristo Redentor',
+          tags: ['passeio'],
+        },
+        {
+          id: 2,
+          cover_url: '/img/paodeacucar.png',
+          name: 'Pão de Açúcar',
+          tags: ['passeio'],
+        },
+        {
+          id: 3,
+          cover_url: '/img/copacabana.png',
+          name: 'Praia de Copacabana',
+          tags: ['praia'],
+        },
+        {
+          id: 4,
+          cover_url: '/img/jardimbotanico.png',
+          name: 'Jardim Botânico',
+          tags: ['passeio'],
+        },
+        {
+          id: 5,
+          cover_url: '/img/morrodaurca.png',
+          name: 'Morro da Urca',
+          tags: ['passeio'],
+        },
+        {
+          id: 6,
+          cover_url: '/img/ipanema.png',
+          name: 'Praia de Ipanema',
+          tags: ['praia'],
+        },
+        {
+          id: 7,
+          cover_url: '/img/museudoamanha.png',
+          name: 'Museu do Amanhã',
+          tags: ['cultura'],
+        },
+        {
+          id: 8,
+          cover_url: '/img/theatromunicipal.png',
+          name: 'Theatro Municipal',
+          tags: ['cultura'],
+        },
+        {
+          id: 9,
+          cover_url: '/img/aquario.png',
+          name: 'AquaRio',
+          tags: ['lazer'],
+        },
+      ]
+    },
+    other: {
+      events: [
+        {
+          id: 'open-rio-2021',
+          title: 'Rio Open',
+          subtitle: 'Rio de Janeiro',
+          categories: ['Brasil'],
+          date: '15/02 a 21/02/21',
+          img: '/img/final-rio-open-2021-capa-md.png',
+          href: '/evento/rio-open-2021',
+        },
+        {
+          id: 'miami-open-2021',
+          title: 'Miami Open',
+          subtitle: '',
+          categories: ['internacional'],
+          date: '22/03 a 04/04/21',
+          img: '/img/capa-miami-open-2021-md.png',
+          href: '/evento/miami-open-2021',
+        },
+        {
+          id: 'final-champions-league-2021',
+          title: 'Champions League',
+          subtitle: 'Istambul',
+          categories: ['internacional'],
+          date: '29/05/21',
+          img: '/img/final-champions-league-2021-md.png',
+          href: '/evento/final-champions-league-2021',
+        },  
+        {
+          id: 'olimpiada-toquio-2021',
+          title: 'Jogos Olímpicos',
+          subtitle: 'Tóquio',
+          categories: ['internacional'],
+          date: '23/07 a 08/08/21',
+          img: '/img/olimpiada-toquio-2021-md.png',
+          href: '/evento/olimpiada-toquio-2021',
+        },  
+        {
+          id: 'us-open-2021',
+          title: 'US Open',
+          subtitle: 'Nova Iorque',
+          categories: ['internacional'],
+          date: '30/08 a 12/09/21',
+          img: '/img/us-open-2021-md.png',
+          href: '/evento/us-open-2021',
+        },
+        {
+          id: 'copa-do-mundo-2022',
+          title: 'Copa do Mundo',
+          subtitle: 'Qatar',
+          categories: ['internacional'],
+          date: '21/11 a 18/12/22',
+          img: '/img/copa-do-mundo-2022-md.png',
+          href: '/evento/copa-do-mundo-2022',
+        },
+      ]
+    }
+  },
+
+  'rio-open-2021': {
+    title: 'Rio Open',
+    subtitle: 'Rio de Janeiro',
+    city: 'Rio de Janeiro',
+    short_description: 'O RIO OPEN é um torneio ATP 500 e o maior evento de tênis da América do Sul. Disputado em pleno verão carioca, o torneio sempre recebe grandes nomes do tênis mundial e do nosso continente. Com uma verdadeira “cidade do tênis” montada no Jockey Club, o evento recebe mais de 50mil fãs de tênis por ano e conta com excelentes opções de áreas VIP e de hospitalidade.',
+    cover_url: '/img/headers/final-rio-open-2021-header.png',
+    about: {
+      cover_url: '/img/side-rio-open.png',
+      title: 'Rio Open 2021',
+      description: 'A edição de 2021 será novamente disputada no tradicional Jockey Club Brasileiro, na Lagoa. Assim que confirmados, listaremos os principais jogadores aqui.',
+    },
+    sectors: [
+      {
+        name: 'Box',
+        gallery: [
+          '/img/box-rio-open.png',
+        ],
+        logo: '/img/the-nine-logo.png',
+        logo_event: '/img/logos/logo-rio-open.png',
+        title: 'Box',
+        description: 'O setor Box tem assentos nas laterais da quadra, bem próximas à ação do jogo. Além da localização privilegiada, os convidados têm acesso ao Corcovado Club e serviço de alimentação no Restaurante Victoria.',
+        map: {
+          latitude: '40.714728',
+          longitude: '-73.998672',
+        },
+        features: [
+          'Ingressos Box',
+          'Acesso exclusivo Corcovado Club',
+          'Pacote consumação no Restaurante Victoria (dentro do complexo)',
+        ],
+      },
+      {
+        name: 'Cadeira',
+        gallery: [
+          '/img/cadeira-rio-open.png',
+        ],
+        logo: '/img/the-nine-logo.png',
+        logo_event: '/img/logos/logo-rio-open.png',
+        title: 'Cadeira',
+        description: 'As cadeiras estão localizadas no fundo da quadra. Além da localização privilegiada, os convidados têm acesso ao Corcovado Club e serviço de alimentação no Restaurante Victoria.',
+        map: {
+          latitude: '40.714728',
+          longitude: '-73.998672',
+        },
+        features: [
+          'Ingressos Cadeira',
+          'Acesso exclusivo Corcovado Club',
+          'Pacote consumação no Restaurante Victoria (dentro do complexo)',
+        ],
+      },
+    ],
+    attractions: {
+      description: 'A estrutura montada para o Rio Open no Jockey Club conta com 9 quadras de saibro, incluindo a quadra central (Quadra Guga Kuerten), com capacidade para 6.200 pessoas. O complexo tem também 3 áreas de entretenimento e gastronomia para o público: o Leblon Boulevard, a Praça Rio Open, e o Corcovado Club, este restrito a portadores de ingressos VIP.',
+      suggested: [
+        {
+          id: 1,
+          cover_url: '/img/jockey_rioopen.png',
+          name: 'JOCKEY CLUB',
+          description: 'O torneio é realizado em um dos espaços mais nobres do Rio.',
+        },
+        {
+          id: 2,
+          cover_url: '/img/leblonblvd_rioopen.png',
+          name: 'LEBLON BOULEVARD',
+          description: 'Lojas, restaurantes e entretenimento.',
+        },
+        {
+          id: 3,
+          cover_url: '/img/pracario_rioopen.png',
+          name: 'PRAÇA RIO',
+          description: 'Os melhores shows e performances para fechar os dias de jogos.',
+        },
+      ],
+      best: [
+        {
+          id: 1,
+          cover_url: '/img/cristoredentor.png',
+          name: 'Cristo Redentor',
+          tags: ['passeio'],
+        },
+        {
+          id: 2,
+          cover_url: '/img/paodeacucar.png',
+          name: 'Pão de Açúcar',
+          tags: ['passeio'],
+        },
+        {
+          id: 3,
+          cover_url: '/img/copacabana.png',
+          name: 'Praia de Copacabana',
+          tags: ['praia'],
+        },
+        {
+          id: 4,
+          cover_url: '/img/jardimbotanico.png',
+          name: 'Jardim Botânico',
+          tags: ['passeio'],
+        },
+        {
+          id: 5,
+          cover_url: '/img/morrodaurca.png',
+          name: 'Morro da Urca',
+          tags: ['passeio'],
+        },
+        {
+          id: 6,
+          cover_url: '/img/ipanema.png',
+          name: 'Praia de Ipanema',
+          tags: ['praia'],
+        },
+        {
+          id: 7,
+          cover_url: '/img/museudoamanha.png',
+          name: 'Museu do Amanhã',
+          tags: ['cultura'],
+        },
+        {
+          id: 8,
+          cover_url: '/img/theatromunicipal.png',
+          name: 'Theatro Municipal',
+          tags: ['cultura'],
+        },
+        {
+          id: 9,
+          cover_url: '/img/aquario.png',
+          name: 'AquaRio',
+          tags: ['lazer'],
+        },
+      ]
+    },
+    other: {
+      events: [
+        {
+          id: 'final-libertadores-2020',
+          title: 'Libertadores',
+          subtitle: 'Final 2020',
+          categories: ['nacional'],
+          date: 'Janeiro',
+          img: '/img/final-libertadores-2020-capa-md.png',
+          href: '/evento/final-libertadores-2020',
+        },
+        {
+          id: 'miami-open-2021',
+          title: 'Miami Open',
+          subtitle: '',
+          categories: ['internacional'],
+          date: '22/03 a 04/04/21',
+          img: '/img/capa-miami-open-2021-md.png',
+          href: '/evento/miami-open-2021',
+        },
+        {
+          id: 'final-champions-league-2021',
+          title: 'Champions League',
+          subtitle: 'Istambul',
+          categories: ['internacional'],
+          date: '29/05/21',
+          img: '/img/final-champions-league-2021-md.png',
+          href: '/evento/final-champions-league-2021',
+        },  
+        {
+          id: 'olimpiada-toquio-2021',
+          title: 'Jogos Olímpicos',
+          subtitle: 'Tóquio',
+          categories: ['internacional'],
+          date: '23/07 a 08/08/21',
+          img: '/img/olimpiada-toquio-2021-md.png',
+          href: '/evento/olimpiada-toquio-2021',
+        },  
+        {
+          id: 'us-open-2021',
+          title: 'US Open',
+          subtitle: 'Nova Iorque',
+          categories: ['internacional'],
+          date: '30/08 a 12/09/21',
+          img: '/img/us-open-2021-md.png',
+          href: '/evento/us-open-2021',
+        },
+        {
+          id: 'copa-do-mundo-2022',
+          title: 'Copa do Mundo',
+          subtitle: 'Qatar',
+          categories: ['internacional'],
+          date: '21/11 a 18/12/22',
+          img: '/img/copa-do-mundo-2022-md.png',
+          href: '/evento/copa-do-mundo-2022',
+        },
+      ]
+    }
+  },
+
+  'miami-open-2021': {
+    title: 'Miami Open',
+    subtitle: 'Miami',
+    city: 'Miami',
+    short_description: 'O Miami Open acontece desde 1985 e é um dos principais torneios do circuito do tênis mundial. Com presença certa dos mais importantes jogadores, distribui mais de USD 15 milhões em premiações e é reconhecido como o torneio mais divertido para os fãs. Desde 2018, o torneio se mudou para o novo Complexo do Hard Rock Stadium.',
+    cover_url: '/img/headers/miami-open-2021-header.png',
+    about: {
+      cover_url: '/img/side-miami-open.png',
+      title: 'Miami Open 2021',
+      description: '2021 pode marcar a última aparição da lenda e vigente campeão, Roger Federer, em Miami. O suíço, que em 2019 venceu a final contra John Isner, é aguardado para sua despedida em 2021. Sendo um torneio categoria Masters 1000, o Miami Open atrai os melhores jogadores do mundo para sua disputa, garantindo assim grandes espetáculos para os convidados. O evento feminino também faz parte da elite da WTA, e em 2019 viu Ashleigh Barty levantar a taça, meses antes de ganhar também em Roland Garros. Em 2020, o torneio não foi disputado devido à crise do Covid19.',
+    },
+    sectors: [
+      {
+        name: 'Camarotes',
+        gallery: [
+          '/img/camarote-miami-open-1.png',
+          '/img/camarote-miami-open-2.png',
+          '/img/camarote-miami-open-3.png',
+        ],
+        logo: '/img/the-nine-logo.png',
+        logo_event: '/img/logos/logo_miami_open.png',
+        title: 'Camarotes',
+        description: 'Espaços privativos de diferentes tamanhos, com serviços de alimentação e bebida e acessos a lounges exclusivos.',
+        map: {
+          latitude: '40.714728',
+          longitude: '-73.998672',
+        },
+        features: [
+          'Camarotes de 10 a 40 lugares (privativo)',
+          'Serviço de alimentação e bebida incluído ou à parte (depende do tipo de camarote)',
+          'Acesso a lounges de hospitalidade',
+          'Estacionamento VIP',
+          'Visão lateral ou fundo de quadra',
+        ],
+      },
+      {
+        name: 'Assentos VIP',
+        gallery: [
+          '/img/luxury-miami-open-1.png',
+          '/img/luxury-miami-open-2.png',
+          '/img/luxury-miami-open-3.png',
+        ],
+        logo: '/img/the-nine-logo.png',
+        logo_event: '/img/logos/logo_miami_open.png',
+        title: 'Assentos VIP',
+        description: 'Espaços compartilhados ou boxes de diferentes tamanhos, com serviços de alimentação e bebida e acessos a lounges exclusivos.',
+        map: {
+          latitude: '40.714728',
+          longitude: '-73.998672',
+        },
+        features: [
+          'Assentos avulsos ou boxes de 2 a 6 lugares (privativo)',
+          'Serviço de alimentação e bebida incluído',
+          'Acesso a lounges de hospitalidade',
+          'Estacionamento VIP',
+          'Visão lateral ou fundo de quadra',
+        ],
+      },
+    ],
+    attractions: {
+      description: 'A área externa do evento oferece aos convidados uma ampla gama de entretenimento e gastronomia para aproveitar os intervalos entre os jogos e sessões. Parceria com renomados restaurantes locais e marcas de bebidas trazem diversas opções que podem ser apreciadas em um grande espaço gramado com sombras para refrescar o calor de Miami. O evento também conta com DJs para animar o público e o Art Open Miami, uma exposição de arte com curadoria de galerias e artistas locais e internacionais.',
+      suggested: [
+        {
+          id: 1,
+          cover_url: '/img/experience-miami-open-1.png',
+          name: 'MIAMI OPEN EXPERIENCE',
+          description: 'Atrações que vão muito além do tênis',
+        },
+        {
+          id: 2,
+          cover_url: '/img/experience-miami-open-2.png',
+          name: 'GASTRONOMIA E ENTRETENIMENTO',
+          description: 'Restaurantes e artistas locais levam o sabor de Miami para o torneio',
+        },
+        {
+          id: 3,
+          cover_url: '/img/experience-miami-open-3.png',
+          name: 'HARD ROCK STADIUM',
+          description: 'O Miami Open é o único torneio ATP disputado em um estádio da NFL',
+        },
+      ],
+      best: [
+        {
+          id: 1,
+          cover_url: '/img/wynwood.png',
+          name: 'Wynwood',
+          tags: ['cultura'],
+        },
+        {
+          id: 2,
+          cover_url: '/img/miamibeach.png',
+          name: 'Miami Beach',
+          tags: ['praia'],
+        },
+        {
+          id: 3,
+          cover_url: '/img/baysidemarketplace.png',
+          name: 'Bayside Marketplace',
+          tags: ['shopping'],
+        },
+        {
+          id: 4,
+          cover_url: '/img/dolphinmall.png',
+          name: 'Dolphin Mall',
+          tags: ['shopping'],
+        },
+        {
+          id: 5,
+          cover_url: '/img/zoomiami.png',
+          name: 'Zoo Miami',
+          tags: ['lazer'],
+        },
+        {
+          id: 6,
+          cover_url: '/img/littlehavana.png',
+          name: 'Little Havana',
+          tags: ['passeio'],
+        },
+        {
+          id: 7,
+          cover_url: '/img/perez-art-museum.png',
+          name: 'Pérez Art Museum',
+          tags: ['cultura'],
+        },
+        {
+          id: 8,
+          cover_url: '/img/vizcaya.png',
+          name: 'Vizcaya Museum',
+          tags: ['cultura'],
+        },
+        {
+          id: 9,
+          cover_url: '/img/lincolnroad.png',
+          name: 'Lincoln Road',
+          tags: ['shopping'],
+        },
+      ]
+    },
+    other: {
+      events: [
+        {
+          id: 'final-libertadores-2020',
+          title: 'Libertadores',
+          subtitle: 'Final 2020',
+          categories: ['nacional'],
+          date: 'Janeiro',
+          img: '/img/final-libertadores-2020-capa-md.png',
+          href: '/evento/final-libertadores-2020',
+        },
+        {
+          id: 'open-rio-2021',
+          title: 'Rio Open',
+          subtitle: 'Rio de Janeiro',
+          categories: ['Brasil'],
+          date: '15/02 a 21/02/21',
+          img: '/img/final-rio-open-2021-capa-md.png',
+          href: '/evento/rio-open-2021',
+        },
+        {
+          id: 'final-champions-league-2021',
+          title: 'Champions League',
+          subtitle: 'Istambul',
+          categories: ['internacional'],
+          date: '29/05/21',
+          img: '/img/final-champions-league-2021-md.png',
+          href: '/evento/final-champions-league-2021',
+        },  
+        {
+          id: 'olimpiada-toquio-2021',
+          title: 'Jogos Olímpicos',
+          subtitle: 'Tóquio',
+          categories: ['internacional'],
+          date: '23/07 a 08/08/21',
+          img: '/img/olimpiada-toquio-2021-md.png',
+          href: '/evento/olimpiada-toquio-2021',
+        },  
+        {
+          id: 'us-open-2021',
+          title: 'US Open',
+          subtitle: 'Nova Iorque',
+          categories: ['internacional'],
+          date: '30/08 a 12/09/21',
+          img: '/img/us-open-2021-md.png',
+          href: '/evento/us-open-2021',
+        },
+        {
+          id: 'copa-do-mundo-2022',
+          title: 'Copa do Mundo',
+          subtitle: 'Qatar',
+          categories: ['internacional'],
+          date: '21/11 a 18/12/22',
+          img: '/img/copa-do-mundo-2022-md.png',
+          href: '/evento/copa-do-mundo-2022',
+        },
+      ]
+    }
+  },
+
+  'final-champions-league-2021': {
+    title: 'Champions League',
+    subtitle: 'Final | Istambul',
+    city: 'Istambul',
+    short_description: 'A Liga dos Campeões da UEFA reúne os craques dos clubes de futebol mais badalados do mundo, como Barcelona, Real Madrid, Bayern de Munique, Paris Saint-Germain, Manchester City e Liverpool, entre outros. A final do torneio sempre é disputada em jogo único em um evento que para o planeta!',
+    cover_url: '/img/headers/final-champions-league-2021-header.png',
+    about: {
+      cover_url: '/img/istambul.png',
+      title: 'Final Champions League 2021',
+      description: 'Este ano a final da Champions será disputada no estádio Atatürk, na magnífica Istambul. Istambul receberia a final de 2020, mas o evento foi realizado em Lisboa, sem a presença de público, por conta da crise do Covid19. Desta maneira, a capital turca está mais do que pronta para receber o principal jogo de futebol do mundo em 2021. A cidade receberá a final pela primeira vez depois da épica decisão de 2005, quando o Liverpool venceu o Milan nos pênaltis após estar perdendo o jogo por 3 a 0.',
+    },
+    sectors: [
+      {
+        name: 'Hospitality Club',
+        gallery: [
+          '/img/setores-hospitality-club-final-champions.png',
+        ],
+        logo: '/img/the-nine-logo.png',
+        logo_event: '/img/logos/logo-final-champions-2021.png',
+        title: 'Hospitality Club',
+        description: 'O setor de Hospitalidade oferecerá aos convidados o conforto da melhor visão do campo e uma área exclusiva de alimentação, bebidas e entretenimento, proporcionando uma experiência inesquecível para os convidados.',
+        map: {
+          latitude: '40.714728',
+          longitude: '-73.998672',
+        },
+        features: [
+          'Ingressos Categoria 1 na arquibancada central',
+          'Acesso exclusivo ao Club localizado nos arredores do estádio',
+          'Buffet de gastronomia local e mundial antes e após o jogo',
+          'Welcome drink (Champagne)',
+          'Open bar de bebidas (Vinho, cerveja e não alcoolicos)',
+          'Entretenimento ao vivo',
+        ],
+      },
+    ],
+    attractions: {
+      description: 'Durante o final de semana da Final da Champions a cidade respira futebol e várias atividades relacionadas ao torneio são montadas tanto espalhadas pela cidade quanto nas imediações do estádio. Além disso, os convidados de hospitalidade têm acesso ao Hospitality Club, com serviço de comida e bebida, ativações de patrocinadores e entretenimento.',
+      suggested: [
+        {
+          id: 1,
+          cover_url: '/img/experiencia-final-champions-2.png',
+          name: 'Entretenimento',
+          description: 'Curta a final além das quatro linhas',
+        },
+        {
+          id: 2,
+          cover_url: '/img/experiencia-final-champions-1.png',
+          name: 'Diversão',
+          description: 'Brincadeiras para todas as idades',
+        },
+        {
+          id: 3,
+          cover_url: '/img/hospitality-final-champions.png',
+          name: 'Hospitality Club',
+          description: 'Serviços premium para convidados especiais',
+        },
+      ],
+      best: [
+        {
+          id: 1,
+          cover_url: '/img/palaciodolmabahce.png',
+          name: 'Palácio Dolmabahçe',
+          tags: ['passeio'],  
+        },
+        {
+          id: 2,
+          cover_url: '/img/santasofia.png',
+          name: 'Santa Sofia',
+          tags: ['religião'],
+        },
+        {
+          id: 3,
+          cover_url: '/img/mesquitasuleymaniye.png',
+          name: 'Mesquita Süleymaniye',
+          tags: ['religião'],
+        },
+        {
+          id: 4,
+          cover_url: '/img/palaciotopkapi.png',
+          name: 'Palácio Topkapi',
+          tags: ['passeio'],
+        },
+        {
+          id: 5,
+          cover_url: '/img/estreitodebosforo.png',
+          name: 'Estreito de Bósforo',
+          tags: ['passeio'],
+        },
+        {
+          id: 6,
+          cover_url: '/img/torregalata.png',
+          name: 'Torre Galata',
+          tags: ['passeio'],
+        },
+        {
+          id: 7,
+          cover_url: '/img/mesquitaazul.png',
+          name: 'Mesquita Azul',
+          tags: ['religião'],
+        },
+        {
+          id: 8,
+          cover_url: '/img/grandbazaar.png',
+          name: 'Grand Bazaar',
+          tags: ['shopping'],
+        },
+        {
+          id: 9,
+          cover_url: '/img/sultanahmet.png',
+          name: 'Sultanahmet',
+          tags: ['passeio'],
+        },
+      ]
+    },
+    other: {
+      events: [
+        {
+          id: 'final-libertadores-2020',
+          title: 'Libertadores',
+          subtitle: 'Final 2020',
+          categories: ['nacional'],
+          date: 'Janeiro',
+          img: '/img/final-libertadores-2020-capa-md.png',
+          href: '/evento/final-libertadores-2020',
+        },
+        {
+          id: 'open-rio-2021',
+          title: 'Rio Open',
+          subtitle: 'Rio de Janeiro',
+          categories: ['Brasil'],
+          date: '15/02 a 21/02/21',
+          img: '/img/final-rio-open-2021-capa-md.png',
+          href: '/evento/rio-open-2021',
+        },
+        {
+          id: 'miami-open-2021',
+          title: 'Miami Open',
+          subtitle: '',
+          categories: ['internacional'],
+          date: '22/03 a 04/04/21',
+          img: '/img/capa-miami-open-2021-md.png',
+          href: '/evento/miami-open-2021',
+        }, 
+        {
+          id: 'olimpiada-toquio-2021',
+          title: 'Jogos Olímpicos',
+          subtitle: 'Tóquio',
+          categories: ['internacional'],
+          date: '23/07 a 08/08/21',
+          img: '/img/olimpiada-toquio-2021-md.png',
+          href: '/evento/olimpiada-toquio-2021',
+        },  
+        {
+          id: 'us-open-2021',
+          title: 'US Open',
+          subtitle: 'Nova Iorque',
+          categories: ['internacional'],
+          date: '30/08 a 12/09/21',
+          img: '/img/us-open-2021-md.png',
+          href: '/evento/us-open-2021',
+        },
+        {
+          id: 'copa-do-mundo-2022',
+          title: 'Copa do Mundo',
+          subtitle: 'Qatar',
+          categories: ['internacional'],
+          date: '21/11 a 18/12/22',
+          img: '/img/copa-do-mundo-2022-md.png',
+          href: '/evento/copa-do-mundo-2022',
+        },
+      ]
+    }
+  },
+
+  'olimpiada-toquio-2021': {
+    title: 'Olimpíada Tóquio',
+    subtitle: 'Tóquio',
+    city: 'Tóquio',
+    short_description: 'Os Jogos Olímpicos são a grande celebração do esporte mundial. É onde os grandes atletas e seleções se reúnem para lutar pelas medalhas douradas e pelos recordes. Além disso, a Olimpíada transforma a sua cidade-sede em um grande centro de turismo e cultura, onde milhares de visitantes se encontram para torcer pelos seus países.',
+    cover_url: '/img/headers/olimpiada-toquio-2021-header.png',
+    about: {
+      cover_url: '/img/side-tokyo-2020.png',
+      title: 'Jogos Olímpicos Tóquio 2020',
+      description: 'Após o adiamento por conta do COVID19, os Jogos Olímpicos de 2020 serão disputados em Tóquio, em 2021. O adiamento da data não diminuiu o entusiasmo de atletas e torcedores que almejam fazer parte desta grande festa do esporte.',
+    },
+    sectors: [
+      {
+        name: 'Estádio Olímpico',
+        gallery: [
+          '/img/estadio-olimpico-tokyo-2020.png',
+        ],
+        logo: '/img/the-nine-logo.png',
+        logo_event: '/img/logos/logo-tokyo-2020.png',
+        title: 'Estádio Olímpico',
+        description: 'O principal estádio de Tokyo 2020, local da abertura, encerramento e das principais competições de atletismo.',
+        map: {
+          latitude: '40.714728',
+          longitude: '-73.998672',
+        },
+        features: [
+          'Cerimônias de Abertura e Encerramento',
+          'Atletismo: todas as competições exceto Maratona e Marcha Atlética',
+          'Final do Futebol Feminino',
+          'Capacidade: 68.000',
+          'Localizado na “Heritage Zone”',
+
+        ],
+      },
+      {
+        name: 'Nippon Budokan',
+        gallery: [
+          '/img/budokan-tokyo-2020.png',
+        ],
+        logo: '/img/the-nine-logo.png',
+        logo_event: '/img/logos/logo-tokyo-2020.png',
+        title: 'Nippon Budokan',
+        description: 'O Budokan é conhecido como a casa das artes marciais no Japão e já esteve presente na Olimpíada de 1964.',
+        map: {
+          latitude: '40.714728',
+          longitude: '-73.998672',
+        },
+        features: [
+          '- Todas as competições de Judô',
+          '- Todas as competições de Karate',
+          '- Capacidade: 11.000',
+          '- Localizado na “Heritage Zone”',
+        ],
+      },
+      {
+        name: 'Parque Equestre',
+        gallery: [
+          '/img/equestrian-park-tokyo2020.png',
+        ],
+        logo: '/img/the-nine-logo.png',
+        logo_event: '/img/logos/logo-tokyo-2020.png',
+        title: 'Parque Equestre',
+        description: 'O Parque Equestre também foi utilizado em 1964 e será novamente palco das competições a cavalo nos Jogos Olímpicos.',
+        map: {
+          latitude: '40.714728',
+          longitude: '-73.998672',
+        },
+        features: [
+          'Competições Equestres de Saltos Individuais e por Equipes',
+          'Adestramento Individual e por Equipes',
+          'Capacidade: 9.300',
+          'Localizado na “Heritage Zone”',  
+        ],
+      },
+      {
+        name: 'Complexo Ariake',
+        gallery: [
+          '/img/ariake-tokyo-2020.png',
+        ],
+        logo: '/img/the-nine-logo.png',
+        logo_event: '/img/logos/logo-tokyo-2020.png',
+        title: 'Complexo Ariake',
+        description: 'O distrito de Ariake concentrará diferentes ginásios e locais de competições e será um dos locais mais vibrantes da Olimpíada. No local serão decididos os campeões do Vôlei, Ginástica e Skate, esportes onde o Brasil tem grandes chances de medalha.',
+        map: {
+          latitude: '40.714728',
+          longitude: '-73.998672',
+        },
+        features: [
+          'Esportes: Vôlei, Ginástica, BMX, Skate, Tênis',
+          'Locais de competição: 4',
+          'Capacidades de 5.000 a 20.000 torcedores',
+          'Localizado na “Tokyo Bay Zone”',
+        ],
+      },
+      {
+        name: 'Shiokaze Park',
+        gallery: [
+          '/img/shiokaze-park-tokyo-2020.png',
+        ],
+        logo: '/img/the-nine-logo.png',
+        logo_event: '/img/logos/logo-tokyo-2020.png',
+        title: 'Shiokaze Park',
+        description: 'O Shiokaze Park, à beira da Baía de Tóquio e com vista para a famosa Rainbow Bridge, será a casa do Vôlei de Praia na Olimpíada, que costuma sempre ser a competição mais animada dos Jogos Olímpicos.',
+        map: {
+          latitude: '40.714728',
+          longitude: '-73.998672',
+        },
+        features: [
+          'Esportes: Vôlei de Praia',
+          'Capacidade: 12.000',
+          'Localizado na “Tokyo Bay Zone”',
+        ],
+      },
+      {
+        name: 'Aquatics Center',
+        gallery: [
+          '/img/aquatics-center-tokyo-2020.png',
+        ],
+        logo: '/img/the-nine-logo.png',
+        logo_event: '/img/logos/logo-tokyo-2020.png',
+        title: 'Aquatics Center',
+        description: 'Construído especialmente para os Jogos Olímpicos, o local abrigará as competições de natação, nado sincronizado e saltos ornamentais.',
+        map: {
+          latitude: '40.714728',
+          longitude: '-73.998672',
+        },
+        features: [
+          'Natação',
+          'Nado Sincronizado',
+          'Saltos Ornamentais',
+          'Capacidade: 15.000',
+          'Localizado entre a “Heritage Zone” e a “Tokyo Bay Zone”',
+        ],
+      },
+      {
+        name: 'Saitama Super Arena',
+        gallery: [
+          '/img/saitama-tokyo-2020.png',
+        ],
+        logo: '/img/the-nine-logo.png',
+        logo_event: '/img/logos/logo-tokyo-2020.png',
+        title: 'Saitama Super Arena',
+        description: 'Umas das maiores arenas indoor do Japão, a arena de Saitama será a casa dos astros da NBA na Olimpíada. O ginásio está localizado fora das principais zonas de competição, mas com fácil acesso por transporte público.',
+        map: {
+          latitude: '40.714728',
+          longitude: '-73.998672',
+        },
+        features: [
+          'Todos os jogos do Basquete masculino e feminino',
+          'Capacidade: 21.000',
+          'Localizada em Saitama, a 40km do Estádio Olímpico.',
+        ],
+      },
+    ],
+    attractions: {
+      description: 'Participar de uma Olimpíada é estar dentro de uma festa global, em que o esporte se une à diversão e cultura. Além dos jogos em si, os diferentes locais de competição estarão cheios de atrações especiais para entreter os visitantes do mundo inteiro.',
+      suggested: [
+        {
+          id: 1,
+          cover_url: '/img/experiencia-tokyo-2-2020.png',
+          name: 'DIVERSIDADE CULTURAL',
+          description: 'Encontro de povos de todo o mundo',
+        },
+        {
+          id: 2,
+          cover_url: '/img/experiencia-tokyo-3-2020.png',
+          name: 'CASAS DOS PAÍSES',
+          description: 'Locais de experiência e interação com diferentes culturas',
+        },
+        {
+          id: 3,
+          cover_url: '/img/experiencia-tokyo-1-2020.png',
+          name: 'ENTRETENIMENTO E DIVERSÃO',
+          description: 'Eventos especiais, shows, espetáculos e muitas festas por toda a cidade',
+        },
+      ],
+      best: [
+        {
+          id: 1,
+          cover_url: '/img/santuario-meiji.png',
+          name: 'Santuário Meiji',
+          tags: ['religião'],
+        },
+        {
+          id: 2,
+          cover_url: '/img/jardim-shinjuku.png',
+          name: 'Jardim Shinjuku',
+          tags: ['passeio'],
+        },
+        {
+          id: 3,
+          cover_url: '/img/yomiuri-land.png',
+          name: 'Yomiuri Land',
+          tags: ['lazer'],
+        },
+        {
+          id: 4,
+          cover_url: '/img/asakusa.png',
+          name: 'Asakusa',
+          tags: ['passeio'],
+        },
+        {
+          id: 5,
+          cover_url: '/img/museu-edo-tokyo.png',
+          name: 'Museu Edo-Tokyo',
+          tags: ['cultura'],
+        },
+        {
+          id: 6,
+          cover_url: '/img/parque-ueno.png',
+          name: 'Parque Ueno',
+          tags: ['passeio'],
+        },
+        {
+          id: 7,
+          cover_url: '/img/museu-nacional-de-toquio.png',
+          name: 'Museu Nacional de Tóquio',
+          tags: ['cultura'],
+        },
+        {
+          id: 8,
+          cover_url: '/img/ginza.png',
+          name: 'Ginza',
+          tags: ['passeio'],
+        },
+        {
+          id: 9,
+          cover_url: '/img/skytree.png',
+          name: 'Skytree',
+          tags: ['lazer'],
+        },
+      ]
+    },
+    other: {
+      events: [
+        {
+          id: 'final-libertadores-2020',
+          title: 'Libertadores',
+          subtitle: 'Final 2020',
+          categories: ['nacional'],
+          date: 'Janeiro',
+          img: '/img/final-libertadores-2020-capa-md.png',
+          href: '/evento/final-libertadores-2020',
+        },
+        {
+          id: 'open-rio-2021',
+          title: 'Rio Open',
+          subtitle: 'Rio de Janeiro',
+          categories: ['Brasil'],
+          date: '15/02 a 21/02/21',
+          img: '/img/final-rio-open-2021-capa-md.png',
+          href: '/evento/rio-open-2021',
+        },
+        {
+          id: 'miami-open-2021',
+          title: 'Miami Open',
+          subtitle: '',
+          categories: ['internacional'],
+          date: '22/03 a 04/04/21',
+          img: '/img/capa-miami-open-2021-md.png',
+          href: '/evento/miami-open-2021',
+        }, 
+        {
+          id: 'olimpiada-toquio-2021',
+          title: 'Jogos Olímpicos',
+          subtitle: 'Tóquio',
+          categories: ['internacional'],
+          date: '23/07 a 08/08/21',
+          img: '/img/olimpiada-toquio-2021-md.png',
+          href: '/evento/olimpiada-toquio-2021',
+        },  
+        {
+          id: 'us-open-2021',
+          title: 'US Open',
+          subtitle: 'Nova Iorque',
+          categories: ['internacional'],
+          date: '30/08 a 12/09/21',
+          img: '/img/us-open-2021-md.png',
+          href: '/evento/us-open-2021',
+        },
+        {
+          id: 'copa-do-mundo-2022',
+          title: 'Copa do Mundo',
+          subtitle: 'Qatar',
+          categories: ['internacional'],
+          date: '21/11 a 18/12/22',
+          img: '/img/copa-do-mundo-2022-md.png',
+          href: '/evento/copa-do-mundo-2022',
+        },
+      ]
+    }
+  },
+
+  'us-open-2021': {
+    title: 'US Open',
+    subtitle: 'Nova Iorque',
+    city: 'Nova Iorque',
+    short_description: 'O US Open acontece desde 1881 e é o último torneio Grand Slam da temporada. Com presença certa dos mais importantes jogadores, distribui mais de USD 50 milhões em premiações. O torneio é disputado no Billie Jean King National Tennis Center, no bairro de Queens, Nova Iorque. Em 2020, o campeão masculino foi o austríaco Dominic Thiem.  Na categoria feminina a americana Naomi Osaka levou o troféu pela segunda vez.',
+    cover_url: '/img/headers/us-open-2021-header.png',
+    about: {
+      cover_url: '/img/side-us-open.png',
+      title: 'US Open 2021',
+      description: 'O US Open 2021 será disputado novamente no complexo de tênis no Queens, e os principais jogos serão realizados no Arthur Ashe Stadium, com capacidade para receber mais de 23.000 fãs de tênis. Construído em 1997, foi remodelado recentemente com a adição do teto retrátil e diversas novas áreas como camarotes e restaurantes.',
+    },
+    sectors: [
+      {
+        name: 'Assentos Vip',
+        gallery: [
+          '/img/vip-us-open-1.png',
+          '/img/vip-us-open-2.png',
+          '/img/vip-us-open-3.png',
+        ],
+        logo: '/img/the-nine-logo.png',
+        logo_event: '/img/logos/logo-us-open.png',
+        title: 'Assentos Vip',
+        description: 'Cadeiras em localizações privilegiadas na quadra, sempre com acesso a lounges de hospitalidade para desfrutar de serviços premium de alimentação, bebidas e entretenimento.',
+        map: {
+          latitude: '40.714728',
+          longitude: '-73.998672',
+        },
+        features: [
+          'Ingressos no setor Loge (anel intermediário) ou Courtside (beira da quadra)',
+          'Acesso ao Rooftop Bar',
+          'Serviço de alimentação e bebidas (com vinho e champanhe) incluído',
+          'Acesso ao The Overlook (clube de hospitalidade)',
+        ],
+      },
+      {
+        name: 'Luxury Suites',
+        gallery: [
+          '/img/luxury-us-open-1.png',
+          '/img/luxury-us-open-2.png',
+        ],
+        logo: '/img/the-nine-logo.png',
+        logo_event: '/img/logos/logo-us-open.png',
+        title: 'Luxury Suites',
+        description: 'Os camarotes são a experiência mais exclusiva no US Open. Com capacidade para até 20 convidados, cada camarote oferece uma vista privilegiada da quadra em um espaço 100% privativo. O menu de alimentação e bebidas é customizável e servido por um garçom exclusivo.',
+        map: {
+          latitude: '40.714728',
+          longitude: '-73.998672',
+        },
+        features: [
+          '20 ingressos por camarote (100% privativo)',
+          'Serviço de alimentação e bebidas com menu customizável',
+          'Bebidas finas e coquetéis exclusivos',
+          'Garçom exclusivo',
+          '3 passes de estacionamento',
+
+        ],
+      },
+    ],
+    attractions: {
+      description: 'A área externa do Billie Jean King National Tennis Center oferece aos convidados uma ampla gama de entretenimento e gastronomia para aproveitar os intervalos entre os jogos e as sessões de tênis. Diferentes “food villages” proporcionam aos visitantes uma imersão na cultura gastronômica de New York, com parcerias com renomados restaurantes da cidade. Também faz parte da experiência provar o Honey Deuce, coquetel criado especialmente para o US Open e disponível em diversos bares e restaurantes do complexo. Os clientes VIP têm acesso ao The Overlook, um clube de hospitalidade com o melhor da gastronomia e entretenimento para que os convidados aproveitem também o intervalo entre as partidas.',
+      suggested: [
+        {
+          id: 1,
+          cover_url: '/img/area-externa-us-open.png',
+          name: 'Entretenimento e Gastronomia',
+          description: 'Várias opções espalhadas pelo complexo do torneio',
+        },
+        {
+          id: 2,
+          cover_url: '/img/honey-deuce-us-open.png',
+          name: 'Honey Deuce',
+          description: 'Coquetel exclusivo do US Open',
+        },
+        {
+          id: 3,
+          cover_url: '/img/overlook-us-open.png',
+          name: 'The Overlook',
+          description: 'Tratamento VIP para os convidados',
+        },
+      ],
+      best: [
+        {
+          id: 1,
+          cover_url: '/img/centralpark.png',
+          name: 'Central Park',
+          tags: ['passeio'],
+        },
+        {
+          id: 2,
+          cover_url: '/img/moma.png',
+          name: 'MoMA',
+          tags: ['cultura'],
+        },
+        {
+          id: 3,
+          cover_url: '/img/memorial911.png',
+          name: 'Memorial 9/11',
+          tags: ['passeio'],
+        },
+        {
+          id: 4,
+          cover_url: '/img/estatuadaliberdade.png',
+          name: 'Estátua da Liberdade',
+          tags: ['passeio'],
+        },
+        {
+          id: 5,
+          cover_url: '/img/empirestate.png',
+          name: 'Empire State Building',
+          tags: ['passeio'],
+        },
+        {
+          id: 6,
+          cover_url: '/img/highline.png',
+          name: 'High Line Park',
+          tags: ['passeio'],
+        },
+        {
+          id: 7,
+          cover_url: '/img/chelseamarket.png',
+          name: 'Chelsea Market',
+          tags: ['gastronomia'],
+        },
+        {
+          id: 8,
+          cover_url: '/img/timessquare.png',
+          name: 'Times Square',
+          tags: ['passeio'],
+        },
+        {
+          id: 9,
+          cover_url: '/img/broadway.png',
+          name: 'Broadway',
+          tags: ['lazer'],
+        },
+      ]
+    },
+    other: {
+      events: [
+        {
+          id: 'final-libertadores-2020',
+          title: 'Libertadores',
+          subtitle: 'Final 2020',
+          categories: ['nacional'],
+          date: 'Janeiro',
+          img: '/img/final-libertadores-2020-capa-md.png',
+          href: '/evento/final-libertadores-2020',
+        },
+        {
+          id: 'open-rio-2021',
+          title: 'Rio Open',
+          subtitle: 'Rio de Janeiro',
+          categories: ['Brasil'],
+          date: '15/02 a 21/02/21',
+          img: '/img/final-rio-open-2021-capa-md.png',
+          href: '/evento/rio-open-2021',
+        },
+        {
+          id: 'miami-open-2021',
+          title: 'Miami Open',
+          subtitle: '',
+          categories: ['internacional'],
+          date: '22/03 a 04/04/21',
+          img: '/img/capa-miami-open-2021-md.png',
+          href: '/evento/miami-open-2021',
+        },
+        {
+          id: 'final-champions-league-2021',
+          title: 'Champions League',
+          subtitle: 'Istambul',
+          categories: ['internacional'],
+          date: '29/05/21',
+          img: '/img/final-champions-league-2021-md.png',
+          href: '/evento/final-champions-league-2021',
+        },  
+        {
+          id: 'olimpiada-toquio-2021',
+          title: 'Jogos Olímpicos',
+          subtitle: 'Tóquio',
+          categories: ['internacional'],
+          date: '23/07 a 08/08/21',
+          img: '/img/olimpiada-toquio-2021-md.png',
+          href: '/evento/olimpiada-toquio-2021',
+        },
+        {
+          id: 'copa-do-mundo-2022',
+          title: 'Copa do Mundo',
+          subtitle: 'Qatar',
+          categories: ['internacional'],
+          date: '21/11 a 18/12/22',
+          img: '/img/copa-do-mundo-2022-md.png',
+          href: '/evento/copa-do-mundo-2022',
+        },
+      ]
+    }
+  },
+
+  'copa-do-mundo-2022': {
+    title: 'Copa do Mundo da FIFA 2022',
+    subtitle: 'Qatar',
+    city: 'Qatar',
+    short_description: 'A Copa do Mundo da FIFA é o evento mais popular do esporte mundial. Os grandes astros do futebol se encontram a cada quatro anos para escrever a história do esporte. Além de um grande espetáculo dentro das quatro linhas, torcedores de todo o mundo também se encontram no país-sede, transformando a Copa em uma grande celebração esportiva e cultural.',
+    cover_url: '/img/headers/copa-do-mundo-2022-header.png',
+    about: {
+      cover_url: '/img/side-qatar-22.png',
+      title: 'Copa do Mundo da FIFA 2022',
+      description: 'Pela primeira vez na história a Copa do Mundo será disputada no Oriente Médio e nos meses de novembro e dezembro. O Qatar receberá o evento e, devido a suas dimensões compactas, a distância máxima entre dois estádios será de 1h30 de carro. Essa peculiaridade proporcionará que os visitantes possam assistir a mais de um jogo no mesmo dia. Serão utilizados 8 estádios, todos na capital Doha ou nos arredores.',
+    },
+    sectors: [
+      {
+        name: 'Al Bayt',
+        gallery: [
+          '/img/al-bayt.png',
+        ],
+        logo: '/img/the-nine-logo.png',
+        logo_event: '/img/logos/logo-qatar-2022.png',
+        title: 'Al Bayt',
+        description: 'O espetacular estádio Al Bayt tem sua arquitetura inspirada nas tendas dos beduínos. Um design totalmente diferente, que vai encantar e surpreender os 60.000 torcedores que devem lotar o estádio na partida de Abertura da Copa do Mundo de 2022.',
+        map: {
+          latitude: '40.714728',
+          longitude: '-73.998672',
+        },
+        features: [
+          'Capacidade: 60.000',
+          '9 jogos:',
+          '6 de fase de grupos',
+          '1 oitavas de final',
+          '1 quartas de final',
+          '1 semifinal',
+          'Distância do Souq Waqif: 48km',
+        ],
+      },
+      {
+        name: 'Al Janoub',
+        gallery: [
+          '/img/al-janoub.png',
+        ],
+        logo: '/img/the-nine-logo.png',
+        logo_event: '/img/logos/logo-qatar-2022.png',
+        title: 'Al Janoub',
+        description: 'Localizado na cidade de Al Wakrah, o novo estádio Al Janoub foi inspirado na cultura da pesca e da caça de pérolas. Sua arquitetura externa lembra um dhow, barco típico da região, e suas arquibancadas são pintadas em forma de ondas.',
+        map: {
+          latitude: '40.714728',
+          longitude: '-73.998672',
+        },
+        features: [
+          'Capacidade: 40.000',
+          '7 jogos:',
+          '6 de fase de grupos',
+          '1 oitavas de final',
+          'Distância do Souq Waqif: 17km',
+        ],
+      },
+      {
+        name: 'Al Rayyan',
+        gallery: [
+          '/img/al-rayyan.png',
+        ],
+        logo: '/img/the-nine-logo.png',
+        logo_event: '/img/logos/logo-qatar-2022.png',
+        title: 'Al Rayyan',
+        description: 'A cidade de Al Rayyan é conhecida como a porta de entrada do deserto e casa de um dos times mais populares do Qatar (o Al-Rayyan SC). No lugar do antigo estádio, foi construída uma nova arena que reflete em sua arquitetura elementos da cultura árabe, como os elementos geométricos na sua fachada.',
+        map: {
+          latitude: '40.714728',
+          longitude: '-73.998672',
+        },
+        features: [
+          'Capacidade: 40.000',
+          '7 jogos:',
+          '6 de fase de grupos',
+          '1 oitavas de final',
+          'Distância do Souq Waqif: 14km',
+        ],
+      },
+      {
+        name: 'Al Thumama',
+        gallery: [
+          '/img/al-thumama.png',
+        ],
+        logo: '/img/the-nine-logo.png',
+        logo_event: '/img/logos/logo-qatar-2022.png',
+        title: 'Al Thumama',
+        description: 'Um dos novos estádios construídos para a Copa no Qatar, o Al Thumama foi projetado para lembrar uma gahfiya, a tradicional touca que os homens e meninos árabes costumam usar. O estádio, totalmente climatizado, é mais um que cederá metade dos seus assentos a projetos em países carentes após a competição.',
+        map: {
+          latitude: '40.714728',
+          longitude: '-73.998672',
+        },
+        features: [
+          'Capacidade: 40.000',
+          '8 jogos:',
+          '6 de fase de grupos',
+          '1 oitavas de final',
+          '1 quartas de final',
+          'Distância do Souq Waqif: 12km',
+        ],
+      },
+      {
+        name: 'Education City',
+        gallery: [
+          '/img/education-city.png',
+        ],
+        logo: '/img/the-nine-logo.png',
+        logo_event: '/img/logos/logo-qatar-2022.png',
+        title: 'Education City',
+        description: 'O estádio, construído em um distrito rodeado por universidades e centros de inovação, terá capacidade total de 40.000 espectadores. Após a Copa, seu anel superior será desmontado e seus assentos doados a projetos de estádios em países em desenvolvimento.',
+        map: {
+          latitude: '40.714728',
+          longitude: '-73.998672',
+        },
+        features: [
+          'Capacidade: 40.000',
+          '8 jogos:',
+          '6 de fase de grupos',
+          '1 oitavas de final',
+          '1 quartas de final',
+          'Distância do Souq Waqif: 14km',
+        ],
+      },
+      {
+        name: 'Khalifa International',
+        gallery: [
+          '/img/khalifa.png',
+        ],
+        logo: '/img/the-nine-logo.png',
+        logo_event: '/img/logos/logo-qatar-2022.png',
+        title: 'Khalifa International',
+        description: 'O Khalifa International é o estádio mais antigo desta Copa do Mundo e mais tradicional do Qatar, inaugurado em 1976. Em termos geográficos, é o ponto central nesta Copa do Mundo compacta, onde a distância máxima entre dois estádios é de 1h30 de carro.',
+        map: {
+          latitude: '40.714728',
+          longitude: '-73.998672',
+        },
+        features: [
+          'Capacidade: 40.000',
+          '8 jogos:',
+          '6 de fase de grupos',
+          '1 oitavas de final',
+          'Disputa de 3º lugar',
+          'Distância do Souq Waqif: 12km',
+        ],
+      },
+      {
+        name: 'Lusail',
+        gallery: [
+          '/img/lusail.png',
+        ],
+        logo: '/img/the-nine-logo.png',
+        logo_event: '/img/logos/logo-qatar-2022.png',
+        title: 'Lusail',
+        description: 'O estádio de Lusail será o maior estádio e mais espetacular da Copa do Qatar. O seu design foi inspirado nas tradicionais lanternas árabes e toda sua arquitetura incorpora diversos elementos da cultura local. Ali, com a presença de 80.000 torcedores, será coroado o grande campeão mundial de 2022.',
+        map: {
+          latitude: '40.714728',
+          longitude: '-73.998672',
+        },
+        features: [
+          'Capacidade: 80.000',
+          '10 jogos:',
+          '6 de fase de grupos',
+          '1 oitavas de final',
+          '1 quartas de final',
+          '1 semifinal',
+          'Final',
+          'Distância do Souq Waqif: 23km',
+        ],
+      },
+      {
+        name: 'Ras Abu Aboud',
+        gallery: [
+          '/img/ras-abu-aboud.png',
+        ],
+        logo: '/img/the-nine-logo.png',
+        logo_event: '/img/logos/logo-qatar-2022.png',
+        title: 'Ras Abu Aboud',
+        description: 'Um marco na inovação e na sustentabilidade. O Estádio Ras Abu Aboud está sendo construído com containers, assentos removíveis e blocos modulares. Após a Copa do Mundo, ele será completamente desmontado e suas partes serão utilizadas em outros projetos não apenas no Qatar, mas também em outros países.',
+        map: {
+          latitude: '40.714728',
+          longitude: '-73.998672',
+        },
+        features: [
+          '7 jogos:',
+          '6 de fase de grupos',
+          '1 oitavas de final',
+          'Distância do Souq Waqif: 5km',
+        ],
+      },
+    ],
+    attractions: {
+      description: 'Participar de uma Copa do Mundo é sempre uma experiência única. Para quem vai aos estádios, as áreas de ativação dos patrocinadores e as áreas VIP e de hospitalidade sempre trazem diversão e alto nível de serviços. Já para os que vão assistir aos jogos do lado de fora, as Fan Fests espalhadas pelo país já viraram uma tradição da Copa.',
+      suggested: [
+        {
+          id: 1,
+          cover_url: '/img/hospitality-final-champions.png',
+          name: 'Fan Fest',
+          description: 'Celebre a Copa com torcedores do mundo inteiro',
+        },
+        {
+          id: 2,
+          cover_url: '/img/camarote_qatar22.png',
+          name: 'Camarotes',
+          description: 'Você e seus convidados com tratamento VIP no Qatar',
+        },
+        {
+          id: 3,
+          cover_url: '/img/fanfest_qatar22.png',
+          name: 'Hospitalidade',
+          description: 'Serviços premium de alimentação e bebidas',
+        },
+      ],
+      best: [
+        {
+          id: 1,
+          cover_url: '/img/souqwaqif.png',
+          name: 'Souq Waqif',
+          tags: ['shopping'],
+        },
+        {
+          id: 2,
+          cover_url: '/img/museudearteislamica.png',
+          name: 'Museu de Arte Islâmica',
+          tags: ['cultura'],
+        },
+        {
+          id: 3,
+          cover_url: '/img/museunacionalqatar.png',
+          name: 'Museu Nacional do Qatar',
+          tags: ['cultura'],
+        },
+        {
+          id: 4,
+          cover_url: '/img/katara.png',
+          name: 'Katara',
+          tags: ['passeio'],
+        },
+        {
+          id: 5,
+          cover_url: '/img/thepearl.png',
+          name: 'The Pearl',
+          tags: ['passeio'],
+        },
+        {
+          id: 6,
+          cover_url: '/img/corniche.png',
+          name: 'The Corniche',
+          tags: ['passeio'],
+        },
+        {
+          id: 7,
+          cover_url: '/img/villagiomall.png',
+          name: 'Villagio Mall',
+          tags: ['shopping'],
+        },
+        {
+          id: 8,
+          cover_url: '/img/grandmosque.png',
+          name: 'Grand Mosque',
+          tags: ['religião'],
+        },
+        {
+          id: 9,
+          cover_url: '/img/aquapark.png',
+          name: 'Aqua Park Qatar',
+          tags: ['lazer'],
+        },
+      ]
+    },
+    other: {
+      events: [
+        {
+          id: 'final-libertadores-2020',
+          title: 'Libertadores',
+          subtitle: 'Final 2020',
+          categories: ['nacional'],
+          date: 'Janeiro',
+          img: '/img/final-libertadores-2020-capa-md.png',
+          href: '/evento/final-libertadores-2020',
+        },
+        {
+          id: 'open-rio-2021',
+          title: 'Rio Open',
+          subtitle: 'Rio de Janeiro',
+          categories: ['Brasil'],
+          date: '15/02 a 21/02/21',
+          img: '/img/final-rio-open-2021-capa-md.png',
+          href: '/evento/rio-open-2021',
+        },
+        {
+          id: 'miami-open-2021',
+          title: 'Miami Open',
+          subtitle: '',
+          categories: ['internacional'],
+          date: '22/03 a 04/04/21',
+          img: '/img/capa-miami-open-2021-md.png',
+          href: '/evento/miami-open-2021',
+        },
+        {
+          id: 'final-champions-league-2021',
+          title: 'Champions League',
+          subtitle: 'Istambul',
+          categories: ['internacional'],
+          date: '29/05/21',
+          img: '/img/final-champions-league-2021-md.png',
+          href: '/evento/final-champions-league-2021',
+        },  
+        {
+          id: 'olimpiada-toquio-2021',
+          title: 'Jogos Olímpicos',
+          subtitle: 'Tóquio',
+          categories: ['internacional'],
+          date: '23/07 a 08/08/21',
+          img: '/img/olimpiada-toquio-2021-md.png',
+          href: '/evento/olimpiada-toquio-2021',
+        },  
+        {
+          id: 'us-open-2021',
+          title: 'US Open',
+          subtitle: 'Nova Iorque',
+          categories: ['internacional'],
+          date: '30/08 a 12/09/21',
+          img: '/img/us-open-2021-md.png',
+          href: '/evento/us-open-2021',
+        }
+      ]
+    }
+  },
+
+  // Banner Eventos
+  'barcelona-experience': {
+    title: 'Barcelona Experience',
+    subtitle: 'Jogo do Barça + Fórmula 1',
+    prefix: 'o',
+    city: 'Barcelona',
+    short_description: 'O GP da Espanha de Fórmula 1 é disputado anualmente no Circuito de Barcelona, geralmente no mês de Maio. Para os amantes do automobilismo e do futebol, a experiência fica completa com uma visita ao Camp Nou, seja para assistir a um jogo do Barça ou para visitar seu impressionante museu e a loja oficial do clube.',
+    cover_url: '/img/headers/header-barcelona-experience.png',
+    about: {
+      cover_url: '/img/side-barcelona.png',
+      title: 'Barcelona',
+      description: 'Uma das cidades mais visitadas do mundo, a capital da Catalunha atrai turistas durante todo o ano. Além de um banho de cultura, vida noturna agitada e ótimas praias, Barcelona também oferece experiências inesquecíveis aos amantes dos esportes.',
+    },
+    sectors: [
+      {
+        name: 'CIRCUITO DE BARCELONA',
+        gallery: [
+          '/img/venues-circuit-1.png',
+          '/img/venues-circuit-2.png',
+          '/img/venues-circuit-3.png',
+        ],
+        logo: '/img/the-nine-logo.png',
+        logo_event: '/img/logos/logo-barcelona-F1.png',
+        title: 'CIRCUITO DE BARCELONA',
+        description: 'O circuito está a 32km de distância do centro de Barcelona, uma viagem de aproximadamente meia hora de carro. Além da Fórmula 1, o circuito também recebe anualmente a etapa espanhola de MotoGP e diversos eventos corporativos.',
+        map: {
+          latitude: '40.714728',
+          longitude: '-73.998672',
+        },
+        features: [
+          'Ingressos regulares ou áreas VIP',
+          '3 dias de evento',
+          'Pit Lane Tour (exclusivo para áreas VIP)',
+          'Serviço de alimentação e bebida (exclusivo para áreas VIP)',
+
+        ],
+      },
+      {
+        name: 'CAMP NOU',
+        gallery: [
+          '/img/venues-campnou-1.png',
+          '/img/venues-campnou-2.png',
+          '/img/venues-campnou-3.png',
+          '/img/venues-campnou-4.png',
+          '/img/venues-campnou-5.png',
+        ],
+        logo: '/img/the-nine-logo.png',
+        logo_event: '/img/logos/logo_libertadores2020.png',
+        title: 'CAMP NOU',
+        description: 'O estádio do FC Barcelona é um dos maiores estádios particulares do mundo. No seu complexo, também estão o Museu do Barcelona, um dos mais visitados da cidade, e a loja oficial do Barça.',
+        map: {
+          latitude: '40.714728',
+          longitude: '-73.998672',
+        },
+        features: [
+          'Ingressos regulares ou áreas VIP',
+          'Serviço de alimentação e bebida (exclusivo para áreas VIP)',
+          'Pacotes com tour e visita ao Museu',
+        ],
+      },
+    ],
+    attractions: {
+      description: 'Além das suas atrações turísticas, Barcelona oferece experiências inesquecíveis aos amantes do esporte. Não é sempre que vamos poder curtir, no mesmo final de semana, ícones históricos como Lewis Hamilton e Lionel Messi.',
+      suggested: [
+        {
+          id: 1,
+          cover_url: '/img/barcelona-experience-paddockclub.png',
+          name: 'Paddock Club',
+          description: 'A experiência mais VIP na Fórmula 1',
+        },
+        {
+          id: 2,
+          cover_url: '/img/barcelona-experience-pitlane.png',
+          name: 'Pit Lane Tour',
+          description: 'Visita à pista',
+        },
+        {
+          id: 3,
+          cover_url: '/img/barcelona-experience-campnou.png',
+          name: 'Museu e Tour Camp Nou',
+          description: 'Visite o estádio e conheça a história do clube',
+        },
+        {
+          id: 4,
+          cover_url: '/img/barcelona-experience-areasvip.png',
+          name: 'Áreas VIP',
+          description: 'Serviços exclusivos nos jogos do Barça',
+        },
+      ],
+      best: [
+        {
+          id: 1,
+          cover_url: '/img/barcelona-experience-sagradafamilia.png',
+          name: 'Sagrada Família',
+          tags: ['cultura'],
+        },
+        {
+          id: 2,
+          cover_url: '/img/barcelona-experience-casabatllo.png',
+          name: 'Casa Batlló',
+          tags: ['cultura'],
+        },
+        {
+          id: 3,
+          cover_url: '/img/barcelona-experience-lapedrera.png',
+          name: 'La Pedrera',
+          tags: ['cultura'],
+        },
+        {
+          id: 4,
+          cover_url: '/img/barcelona-experience-laboqueria.png',
+          name: 'Mercado de La Boquería',
+          tags: ['gastronomia'],
+        },
+        {
+          id: 5,
+          cover_url: '/img/barcelona-experience-catedraldebarcelona.png',
+          name: 'Catedral de Barcelona',
+          tags: ['religião'],
+        },
+        {
+          id: 6,
+          cover_url: '/img/barcelona-experience-montjuic.png',
+          name: 'Montjuic',
+          tags: ['passeio'],
+        },
+        {
+          id: 7,
+          cover_url: '/img/barcelona-experience-parqueguell.png',
+          name: 'Parque Güell',
+          tags: ['cultura'],
+        },
+        {
+          id: 8,
+          cover_url: '/img/barcelona-experience-museupicasso.png',
+          name: 'Museu Picasso',
+          tags: ['cultura'],
+        },
+        {
+          id: 9,
+          cover_url: '/img/barcelona-experience-barceloneta.png',
+          name: 'Praia da Barceloneta',
+          tags: ['praia'],
+        },
+      ]
+    },
+    other: {
+      events: [
+        {
+          id: 'open-rio-2021',
+          title: 'Rio Open',
+          subtitle: 'Rio de Janeiro',
+          categories: ['Brasil'],
+          date: '15/02 a 21/02/21',
+          img: '/img/final-rio-open-2021-capa-md.png',
+          href: '/evento/rio-open-2021',
+        },
+        {
+          id: 'miami-open-2021',
+          title: 'Miami Open',
+          subtitle: '',
+          categories: ['internacional'],
+          date: '22/03 a 04/04/21',
+          img: '/img/capa-miami-open-2021-md.png',
+          href: '/evento/miami-open-2021',
+        },
+        {
+          id: 'final-champions-league-2021',
+          title: 'Champions League',
+          subtitle: 'Istambul',
+          categories: ['internacional'],
+          date: '29/05/21',
+          img: '/img/final-champions-league-2021-md.png',
+          href: '/evento/final-champions-league-2021',
+        },  
+        {
+          id: 'olimpiada-toquio-2021',
+          title: 'Jogos Olímpicos',
+          subtitle: 'Tóquio',
+          categories: ['internacional'],
+          date: '23/07 a 08/08/21',
+          img: '/img/olimpiada-toquio-2021-md.png',
+          href: '/evento/olimpiada-toquio-2021',
+        },  
+        {
+          id: 'us-open-2021',
+          title: 'US Open',
+          subtitle: 'Nova Iorque',
+          categories: ['internacional'],
+          date: '30/08 a 12/09/21',
+          img: '/img/us-open-2021-md.png',
+          href: '/evento/us-open-2021',
+        },
+        {
+          id: 'copa-do-mundo-2022',
+          title: 'Copa do Mundo',
+          subtitle: 'Qatar',
+          categories: ['internacional'],
+          date: '21/11 a 18/12/22',
+          img: '/img/copa-do-mundo-2022-md.png',
+          href: '/evento/copa-do-mundo-2022',
+        },
+      ]
+    }
+  },
+
+  // 'mundial-de-clubes-2020': {
+  //   title: 'Mundial de Clubes',
+  //   subtitle: '2020',
+  //   city: 'Doha',
+  //   short_description: 'O Mundial de Clubes da FIFA coroa anualmente o campeão mundial de futebol entre clubes. Apesar de participarem clubes de todos os continentes, em quase todos os anos o duelo final opõe o campeão da Libertadores contra o campeão da Champions League. Em 2019 o Flamengo ficou muito perto de ser o primeiro sulamericano desde 2012 a levar o título. Quem será o grande campeão em 2021?',
+  //   cover_url: '/img/mundial-de-clubes-2020-capa.png',
+  //   about: {
+  //     cover_url: '/img/federer.jpg',
+  //     title: 'Mundial de Clubes 2020',
+  //     description: 'O Mundial de Clubes da FIFA de 2020 foi adiado para 2021 por conta da crise do COVID19. O torneio será realizado novamente no Qatar, como parte dos preparativos para a Copa do Mundo 2022, e já contará com alguns dos espetaculares estádios que estão sendo construídos para a Copa. Em campo, mais uma vez todos esperam uma final entre o campeão da Libertadores e o da Champions League, em mais um capítulo da histórica rivalidade entre sulamericanos e europeus pela soberania do futebol mundial.',
+  //   },
+  //   sectors: [
+  //     {
+  //       name: 'Hospitality Lounge',
+  //       gallery: [
+  //         '/img/the-nine.png',
+  //         '/img/miami-md.jpg',
+  //       ],
+  //       logo: '/img/the-nine-logo.png',
+  //       title: 'Hospitality Lounge',
+  //       description: 'O Hospitality Lounge é a experiência premium ideal para convidados que não precisam de um espaço privativo. Com ingressos em localização excelente, os convidados terão à disposição um buffet de gastronomia árabe e internacional, com bebidas não-alcoolicas (o consumo de bebidas alcoolicas não é permitido em estádios no Qatar).',
+  //       map: {
+  //         latitude: '40.714728',
+  //         longitude: '-73.998672',
+  //       },
+  //       features: [
+  //         'Ingressos em localização central',
+  //         'Serviço de comidas e bebidas (não-alcoolicas) incluído',
+  //         'Vagas de estacionamento',
+  //         'Recepção, portão de entrada e elevadores exclusivos',
+  //         'Serviço inicia 3hs antes e finaliza 1h após o final do jogo ',
+  //       ],
+  //     },
+  //     {
+  //       name: 'Skybox',
+  //       gallery: [
+  //         '/img/the-nine.png',
+  //         '/img/miami-md.jpg',
+  //       ],
+  //       logo: '/img/the-nine-logo.png',
+  //       title: 'Skybox',
+  //       description: 'Os skyboxes são camarotes privativos para convidados viajando em grupos. Com diferentes tamanhos, os camarotes oferecem um espaço de convivência exclusivo com buffet de gastronomia árabe e internacional, com bebidas não-alcoolicas (o consumo de bebidas alcoolicas não é permitido em estádios no Qatar) e ar condicionado.',
+  //       map: {
+  //         latitude: '40.714728',
+  //         longitude: '-73.998672',
+  //       },
+  //       features: [
+  //         'Ingressos em camarote privativo',
+  //         'Serviço de comidas e bebidas (não-alcoolicas) incluído e servido dentro do camarote',
+  //         'Vagas de estacionamento',
+  //         'Recepção, portão de entrada e elevadores exclusivos',
+  //         'Serviço inicia 3hs antes e finaliza 1h após o final do jogo',
+  //       ],
+  //     },
+  //   ],
+  //   attractions: {
+  //     description: 'A confirmar',
+  //     suggested: [
+  //       {
+  //         id: 1,
+  //         cover_url: '/img/attraction-1.jpg',
+  //         name: 'Art Open Miami',
+  //         description: 'Reference site about Lorem Ipsum, giving information on its origins, as well as a random',
+  //       },
+  //       {
+  //         id: 2,
+  //         cover_url: '/img/attraction-2.jpg',
+  //         name: 'Art Open Miami',
+  //         description: 'Reference site about Lorem Ipsum, giving information on its origins, as well as a random',
+  //       },
+  //       {
+  //         id: 3,
+  //         cover_url: '/img/attraction-3.jpg',
+  //         name: 'Art Open Miami',
+  //         description: 'Reference site about Lorem Ipsum, giving information on its origins, as well as a random',
+  //       },
+  //     ],
+  //     best: [
+  //       {
+  //         id: 1,
+  //         cover_url: '/img/souqwaqif.png',
+  //         name: 'Souq Waqif',
+  //         tags: ['passeio'],
+  //       },
+  //       {
+  //         id: 2,
+  //         cover_url: '/img/museudearteislamica.png',
+  //         name: 'Museu de Arte Islâmica',
+  //         tags: ['praia'],
+  //       },
+  //       {
+  //         id: 3,
+  //         cover_url: '/img/museunacionalqatar.png',
+  //         name: 'Museu Nacional do Qatar',
+  //         tags: ['shopping'],
+  //       },
+  //       {
+  //         id: 4,
+  //         cover_url: '/img/katara.png',
+  //         name: 'Katara',
+  //         tags: ['shopping'],
+  //       },
+  //       {
+  //         id: 5,
+  //         cover_url: '/img/thepearl.png',
+  //         name: 'The Pearl',
+  //         tags: ['shopping'],
+  //       },
+  //       {
+  //         id: 6,
+  //         cover_url: '/img/corniche.png',
+  //         name: 'The Corniche',
+  //         tags: ['shopping'],
+  //       },
+  //       {
+  //         id: 7,
+  //         cover_url: '/img/villagiomall.png',
+  //         name: 'Villagio Mall',
+  //         tags: ['shopping'],
+  //       },
+  //       {
+  //         id: 8,
+  //         cover_url: '/img/grandmosque.png',
+  //         name: 'Grand Mosque',
+  //         tags: ['shopping'],
+  //       },
+  //       {
+  //         id: 9,
+  //         cover_url: '/img/aquapark.png',
+  //         name: 'Aqua Park Qatar',
+  //         tags: ['shopping'],
+  //       },
+  //     ]
+  //   },
+  //   other: {
+  //     events: [
+  //       {
+  //         id: 'final-libertadores-2020',
+  //         title: 'Libertadores',
+  //         subtitle: 'Final 2020',
+  //         categories: ['nacional'],
+  //         date: 'Janeiro',
+  //         img: '/img/final-libertadores-2020-capa-md.png',
+  //         href: '/evento/final-libertadores-2020',
+  //       },
+  //     ]
+  //   }
+  // },
+}

@@ -1,0 +1,120 @@
+{
+  "app.header.menu.top.claims.incentive": "Torne os eventos do seus clientes em experiências inesqueciveis!",
+  "app.header.menu.top.claims.contact": "Entre em contato conosco (11) 9 9999-9900",
+
+  "app.header.menu.main.items.tickets": "Livip Tickets",
+  "app.header.menu.main.items.one": "Livip One",
+  "app.header.menu.main.items.incentive": "Livip Incentive",
+  "app.header.menu.main.items.about": "Sobre",
+  "app.header.menu.main.items.contact": "Fale conosco",
+  "app.header.menu.main.buttons.livipClub": "Clube Livip",
+  "app.header.menu.main.buttons.referral": "Indique para sua empresa",
+
+  "app.header.menu.sub.travel.items.next_events": "Próximos eventos",
+  "app.header.menu.sub.travel.items.events_held": "Eventos realizados",
+  "app.header.menu.sub.travel.buttons.proposal": "Solicitar orçamento",
+
+  "app.home.head.title": "Livip Incentive - A melhor forma de viver eventos esportivos",
+  "app.home.head.description": "Nós oferecemos a você a melhor experiência VIP que você pode oferecer aos seus clientes em um evento esportivo.",
+  "app.home.head.keywords": "eventos esportes experiência clientes vip camarote",
+  "app.home.highlight.title": "Livip. Incentive",
+  "app.home.highlight.subtitle": "Sua empresa e seus convidados juntos nos grandes momentos da história do esporte.",
+  "app.home.nextEvents.title": "Próximos eventos",
+  "app.home.nextEvents.subtitle": "Recomendamos a você os seguintes destinos com um excelente desconto",
+  "app.home.nextEvents.buttons.seeMore": "Ver mais",
+
+  "app.components.NewsletterForm.send": "Cadastrar",
+  "app.components.NewsletterForm.label": "Digite aqui seu email",
+  "app.components.FooterNewsletter.title": "Receba novidades",
+  "app.components.NewsletterBanner.title": "Receba nossas novidades",
+  "app.components.FooterContact.title": "Fale com a gente",
+  "app.components.ServicesIncluded.appDescription": "Estrutura de Atendimento pessoal ao Cliente e Plataforma Digital para gestão e acompanhamento do Programa. ",
+  "app.components.ServicesIncluded.appTitle": "Atendimento",
+  "app.components.ServicesIncluded.gastroDescription": "Possibilidade de organização de ações especiais para os convidados, contratação de ex-jogadores e ídolos, entre outras... ",
+  "app.components.ServicesIncluded.gastroTitle": "Experiências",
+  "app.components.ServicesIncluded.chatDescription": "Staff com grande experiência em atendimento VIP para acompanhamento dos convidados.",
+  "app.components.ServicesIncluded.chatTitle": "Receptivo",
+  "app.components.ServicesIncluded.drinksDescription": "Operação e gestão da logística aérea e terrestre, incluindo traslados e acomodações. ",
+  "app.components.ServicesIncluded.drinksTitle": "Logística e Segurança",
+  "app.components.ServicesIncluded.transportDescription": "Apoio na escolha dos melhores lugares e eventos, reservas e compras de ingressos e gestão da distribuição para os convidados.",
+  "app.components.ServicesIncluded.transportTitle": "Ingressos",
+  "app.components.ServicesIncluded.welcomeDescription": "Nossos projetos de Incentivo são totalmente customizados, com Planejamento em conjunto com o Cliente.",
+  "app.components.ServicesIncluded.welcomeTitle": "Planejamento",
+  "app.components.ServicesIncluded.title": "Experiência Completa",
+  "app.components.ServicesIncluded.subtitle": "Fazemos a gestão total do projeto de incentivo da sua Empresa, cuidando de todos os detalhes para garantir uma experiência perfeita para seus convidados.",
+  "app.components.ProjectCard.button": "Ver programa",
+  "app.components.ProjectCard.subtitle": "para {company}",
+  "app.home.testimonials.title": "Depoimentos",
+  "app.home.lastProjects.title": "Últimos Projetos",
+  "app.carousel.FullWidthCarousel.link": "Ver programa",
+
+  "app.components.FooterIntl.pt": "Português",
+  "app.components.FooterIntl.en": "Inglês",
+  
+  "app.events.head.title": "Próximos Eventos | Livip Incentive - A melhor forma de viver eventos esportivos",
+  "app.events.head.description": "Nós oferecemos a você a melhor experiência VIP que você pode oferecer aos seus clientes em um evento esportivo.",
+  "app.events.head.keywords": "eventos esportes experiência clientes vip camarote lista",
+
+  "app.events_held.head.title": "Eventos Realizados | Livip Incentive - A melhor forma de viver eventos esportivos",
+  "app.events_held.head.description": "Nós oferecemos a você a melhor experiência VIP que você pode oferecer aos seus clientes em um evento esportivo.",
+  "app.events_held.head.keywords": "eventos esportes experiência clientes vip camarote lista",
+
+  "app.projects.head.title": "Projetos | Livip Incentive - A melhor forma de viver eventos esportivos",
+  "app.projects.head.description": "Nós criamos projetos para você oferecer a melhor experiência VIP aos seus clientes em um evento esportivo.",
+  "app.projects.head.keywords": "projetos esportes experiência clientes vip camarote lista",
+
+  "app.projects.title": "Projetos",
+
+  "app.components.FooterLinks.aboutUs": "Quem somos",
+  "app.components.FooterLinks.theSportraveller": "Blog The Sportraveller",
+  "app.components.FooterLinks.partnersAndClients": "Parceiros e Clientes",
+  "app.components.FooterLinks.frequentlyAskedQuestions": "Dúvidas Frequentes",
+  "app.components.FooterLinks.privacyPolicy": "Política de Privacidade",
+  "app.components.FooterLinks.termsAndConditions": "Termos e Condições",
+
+  "app.containers.Event.banner": "Deixe por nossa conta, somos experts em eventos vip no mundo todo",
+  "app.containers.Event.event": "O Evento",
+  "app.containers.Event.button": "Tenho interesse",
+  "app.containers.Event.attractions": "Experiências e atrações",
+  "app.containers.Event.nearby": "O melhor de ",
+  "app.containers.Event.otherEvents": "Outros",
+  "app.containers.Event.otherEventsSubtitle": "Nós recomendamos os seguintes destinos com um excelente preço",
+  "app.containers.Event.sectors": "Setores",
+
+  "app.components.BudgetDialog.title": "Solicite um orçamento",
+  "app.components.BudgetDialog.subtitle": "Deixe o contato do responsável que entraremos em contato.",
+  "app.components.BudgetDialog.send": "Enviar",
+
+  "app.components.BudgetDialogTextFields.name": "Nome completo",
+  "app.components.BudgetDialogTextFields.company": "Nome da empresa",
+  "app.components.BudgetDialogTextFields.email": "E-mail",
+  "app.components.BudgetDialogTextFields.phone": "Telefone",
+  "app.components.BudgetDialogTextFields.event": "Evento de interesse",
+  "app.components.BudgetDialogTextFields.quantity": "Quantidade estimada de convidados",
+
+  "app.components.BudgetDialogMultiline.send": "Comentários",
+
+  "app.components.BudgetDialogCheckboxes.title": "Tenho interesse nos seguintes serviços:",
+  "app.components.BudgetDialogCheckboxes.hotel": "Hotel",
+  "app.components.BudgetDialogCheckboxes.air": "Aéreo",
+  "app.components.BudgetDialogCheckboxes.transfers": "Traslados",
+  "app.components.BudgetDialogCheckboxes.tours": "Passeios Turísticos",
+  "app.components.BudgetDialogCheckboxes.tickets": "Ingressos",
+
+  "app.components.TellYourCompanyDialog.title": "Indique para sua empresa",
+  "app.components.TellYourCompanyDialog.subtitle": "Com quem podemos falar sobre projetos de relacionamento e incentivo em eventos esportivos?",
+  "app.components.TellYourCompanyDialog.send": "Enviar",
+
+  "app.components.TellYourCompanyDialogTextFields.company": "Nome da empresa",
+  "app.components.TellYourCompanyDialogTextFields.name": "Nome do responsável",
+  "app.components.TellYourCompanyDialogTextFields.deptRole": "Departamento/Cargo",
+  "app.components.TellYourCompanyDialogTextFields.phone": "Telefone",
+  "app.components.TellYourCompanyDialogTextFields.email": "E-mail do responsável",
+
+  "app.components.ShareDialog.title": "Compartilhar",
+
+  "app.containers.Footer.socialNetworks": "Redes sociais",
+
+  "app.components.FooterChat.title": "Olá, bem vindo a Livip.",
+  "app.components.FooterChat.subtitle": "Posso te ajudar?"
+}
